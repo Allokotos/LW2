@@ -1,8 +1,8 @@
 <?php
 
-namespace lw2\src;
+namespace Allokotos\Lw3;
 
-use lw2\src\Snack;
+use Allokotos\Lw3\Snack;
 
 abstract class ChocolateFactory
 {

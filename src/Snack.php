@@ -1,6 +1,6 @@
 <?php
 
-namespace lw2\src;
+namespace Allokotos\Lw3;
 
 abstract class Snack
 {
